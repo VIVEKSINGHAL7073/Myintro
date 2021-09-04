@@ -1,2 +1,5 @@
 myintro.cmd linguist-generated=true
 myintro linguist-generated=true
+*.* linguist-language=Dart
+
+project-docs/* linguist-documentation
