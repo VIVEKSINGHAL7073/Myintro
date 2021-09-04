@@ -1,5 +1,2 @@
-*.Dart linguist-detectable=true  
-*.C++ linguist-detectable=false  
-*.C linguist-detectable=false  
-*.Objective-C linguist-detectable=false  
-*.CMake linguist-detectable=false 
+myintro.cmd linguist-generated=true
+myintro linguist-generated=true
