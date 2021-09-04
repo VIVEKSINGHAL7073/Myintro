@@ -1,5 +1,5 @@
 myintro.cmd linguist-generated=true
 myintro linguist-generated=true
-*.* linguist-language=Dart
+*.* linguist-language=Flutter
 
 project-docs/* linguist-documentation
